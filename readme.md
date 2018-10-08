@@ -1,0 +1,1 @@
+An attempt to write on the Design Patterns described in "Head First Design Pattern" in JS
