@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "code all the examples of Head First Design Pattern in Javascript",
   "main": "index.js",
-  "dependencies": {
-    "eslint": "^5.6.1"
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
